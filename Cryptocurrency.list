@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,okx.com
 # Explorer 
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,openseauserdata.com
 
 # Analysis
 DOMAIN-SUFFIX,aicoin.com
