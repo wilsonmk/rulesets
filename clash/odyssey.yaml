@@ -1,3 +1,4 @@
 payload:
   # Odyssey Emby Server
   - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN-SUFFIX,cdn.jsdelivr.net
