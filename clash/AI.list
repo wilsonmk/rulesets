@@ -1,0 +1,10 @@
+# Open AI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,auth0.openai.com
+DOMAIN-SUFFIX,platform.openai.com
+DOMAIN-SUFFIX,ai.com
+
+# Free Chat GPT
+DOMAIN-SUFFIX,freegpt.one
