@@ -1,7 +1,7 @@
 # Odyssey Emby Server
 DOMAIN-SUFFIX,odysseyplus.site
 # jsdelivr
-DOMAIN-SUFFIX,cdn.jsdelivr.net
+# DOMAIN-SUFFIX,cdn.jsdelivr.net
 # crunchyroll
 USER-AGENT,crunchyroll*
 DOMAIN-SUFFIX,crunchyroll.com
