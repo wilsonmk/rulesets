@@ -8,3 +8,6 @@ DOMAIN-SUFFIX,ai.com
 
 # Free Chat GPT
 DOMAIN-SUFFIX,freegpt.one
+
+# Google Bard
+DOMAIN-SUFFIX,bard.google.com
