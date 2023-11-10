@@ -1,21 +1,5 @@
-# Odyssey Emby Server
+# Emby Server
 DOMAIN-SUFFIX,odysseyplus.site
-# jsdelivr
-# DOMAIN-SUFFIX,cdn.jsdelivr.net
-# crunchyroll
-USER-AGENT,crunchyroll*
-DOMAIN-SUFFIX,crunchyroll.com
-DOMAIN-SUFFIX,vrv.co
-DOMAIN,vrv-eec.etp-prod.com
-# funimation
-USER-AGENT,funimation*
-DOMAIN-SUFFIX,funimationsvc.com
-DOMAIN-SUFFIX,funimation.com
-DOMAIN,prod-api-funimationnow.dadcdigital.com
-DOMAIN,derf9v1xhwwx1.cloudfront.net
-DOMAIN,mcd5lyh-608jp1yn7cjt8r6w16fm.device.marketingcloudapis.com
-DOMAIN,7324166.collect.igodigital.com
-DOMAIN,d132fumi6di1wa.cloudfront.net
-DOMAIN,d33et77evd9bgg.cloudfront.net
-# steepandcheap
-DOMAIN-SUFFIX,steepandcheap.com
+DOMAIN-SUFFIX,xo.wilsonmk.xyz
+DOMAIN-SUFFIX,xoxo.wilsonmk.xyz
+DOMAIN-SUFFIX,vanmaxon.cachefly.net
