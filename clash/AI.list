@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,ai.wilsonmk.xyz
 
 # Google Bard
 DOMAIN-SUFFIX,bard.google.com
+
+# Groq Cloud
+- DOMAIN-SUFFIX,groq.com,🇯🇵 日本
