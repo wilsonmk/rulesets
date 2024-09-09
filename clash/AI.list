@@ -16,6 +16,11 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-KEYWORD,openai
 
+# Anthropic
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
 # Free Chat GPT
 DOMAIN-SUFFIX,freegpt.one
 DOMAIN-SUFFIX,ai.wilsonmk.xyz
