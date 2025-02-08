@@ -1,10 +1,8 @@
 # crunchyroll
-USER-AGENT,crunchyroll*
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,vrv.co
 DOMAIN,vrv-eec.etp-prod.com
 # funimation
-USER-AGENT,funimation*
 DOMAIN-SUFFIX,funimationsvc.com
 DOMAIN-SUFFIX,funimation.com
 DOMAIN,prod-api-funimationnow.dadcdigital.com
