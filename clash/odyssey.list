@@ -1,5 +1,3 @@
-# Emby Server
-DOMAIN-SUFFIX,odysseyplus.site
-DOMAIN-SUFFIX,xo.wilsonmk.xyz
-DOMAIN-SUFFIX,xoxo.wilsonmk.xyz
-DOMAIN-SUFFIX,vanmaxon.cachefly.net
+# media server
+DOMAIN-SUFFIX, odysseyplus.site
+DOMAIN-SUFFIX, tanhuatv.site
