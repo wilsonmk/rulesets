@@ -87,3 +87,5 @@ DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,edgeservices.bing.com
 IP-ASN,14061,no-resolve
+
+DOMAIN-SUFFIX,imnks.com
